@@ -109,6 +109,7 @@
 							<Item Name="ReSharper Todo Item" Foreground="0x00FF3CF0" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="ReSharper Warning" Foreground="0x0039CCF0" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Keyword" Foreground="0x00AD7E30" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script String" Foreground="0x0094C7BA" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Smart Tag" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="SQL DML Marker" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Stale Code" Foreground="0x00FF409F" Background="0x02000000" BoldFont="No"/>
